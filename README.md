@@ -1,6 +1,5 @@
 
 # EX-01-Datatypes-Operators
-## Name: Sugeshan
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
 
